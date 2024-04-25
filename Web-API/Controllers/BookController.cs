@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Web_API.DTOs;
-using Web_API.Models;
 using Web_API.Services;
 
 namespace Web_API.Controllers;
